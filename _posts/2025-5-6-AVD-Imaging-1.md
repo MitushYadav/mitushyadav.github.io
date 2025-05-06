@@ -2,10 +2,8 @@
 layout: post
 title: Azure Virtual Desktop Image Creation - Pt 1
 date: 2025-05-06
-published: true
+published: false
 ---
-
-# Azure Virtual Desktop Image Creation - Pt 1
 
 Azure Virtual Desktop(AVD) is a modern Virtual Desktop Infrastructure(VDI) solution offering both Remote Desktop and Remote Apps. It brings together Microsoft 365 and Azure to provide users with multi-session and session-session Windows 11 and Windows 10 experience.
 
